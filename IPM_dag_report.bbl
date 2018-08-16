@@ -1,0 +1,132 @@
+\begin{thebibliography}{16}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{Almberg et~al.(2011)Almberg, Cross, Johnson, Heisey, and
+  Richards}]{almberg2011}
+Almberg, E.~S., P.~C. Cross, C.~J. Johnson, D.~M. Heisey, and B.~J. Richards.
+\newblock 2011.
+\newblock Modeling Routes of Chronic Wasting Disease Transmission:
+  Environmental Prion Persistence Promotes Deer Population Decline and
+  Extinction.
+\newblock PLOS ONE {\bf 6}:e19896.
+
+\bibitem[{Cross et~al.(2013)Cross, Creech, Ebinger, Manlove, Irvine,
+  Henningsen, Rogerson, Scurlock, and Creel}]{cross2013}
+Cross, P.~C., T.~G. Creech, M.~R. Ebinger, K.~Manlove, K.~Irvine,
+  J.~Henningsen, J.~Rogerson, B.~M. Scurlock, and S.~Creel.
+\newblock 2013.
+\newblock Female Elk Contacts Are Neither Frequency nor Density Dependent.
+\newblock Ecology {\bf 94}:2076--2086.
+
+\bibitem[{Fieberg et~al.(2010)Fieberg, Shertzer, Conn, Noyce, and
+  Garshelis}]{fieberg2010}
+Fieberg, J.~R., K.~W. Shertzer, P.~B. Conn, K.~V. Noyce, and D.~L. Garshelis.
+\newblock 2010.
+\newblock Integrated {{Population Modeling}} of {{Black Bears}} in
+  {{Minnesota}}: {{Implications}} for {{Monitoring}} and {{Management}}.
+\newblock PLOS ONE {\bf 5}:e12114.
+
+\bibitem[{Gast et~al.(2013)Gast, Skalski, Isabelle, and Clawson}]{gast2013b}
+Gast, C.~M., J.~R. Skalski, J.~L. Isabelle, and M.~V. Clawson.
+\newblock 2013.
+\newblock Random {{Effects Models}} and {{Multistage Estimation Procedures}}
+  for {{Statistical Population Reconstruction}} of {{Small Game Populations}}.
+\newblock PLOS ONE {\bf 8}:e65244.
+
+\bibitem[{Grear et~al.(2006)Grear, Samuel, Langenberg, and Keane}]{grear2006}
+Grear, D.~A., M.~D. Samuel, J.~A. Langenberg, and D.~Keane.
+\newblock 2006.
+\newblock Demographic Patterns and Harvest Vulnerability of Chronic Wasting
+  Disease Infected White-Tailed Deer in {{Wisconsin}}.
+\newblock Journal of Wildlife Management {\bf 70}:546--553.
+
+\bibitem[{Heisey et~al.(2010)Heisey, Mickelsen, Schneider, Johnson, Johnson,
+  Langenberg, Bochsler, Keane, and Barr}]{heisey2010}
+Heisey, D.~M., N.~A. Mickelsen, J.~R. Schneider, C.~J. Johnson, C.~J. Johnson,
+  J.~A. Langenberg, P.~N. Bochsler, D.~P. Keane, and D.~J. Barr.
+\newblock 2010.
+\newblock Chronic {{Wasting Disease}} ({{CWD}}) {{Susceptibility}} of {{Several
+  North American Rodents That Are Sympatric}} with {{Cervid CWD Epidemics}}.
+\newblock Journal of Virology {\bf 84}:210--215.
+
+\bibitem[{Jennelle et~al.(2014)Jennelle, Henaux, Wasserberg, Thiagarajan,
+  Rolley, and Samuel}]{jennelle2014}
+Jennelle, C.~S., V.~Henaux, G.~Wasserberg, B.~Thiagarajan, R.~E. Rolley, and
+  M.~D. Samuel.
+\newblock 2014.
+\newblock Transmission of Chronic Wasting Disease in Wisconsin White-Tailed
+  Deer: Implications for Disease Spread and Management.
+\newblock PLOS ONE {\bf 9}:e91043.
+
+\bibitem[{Joly et~al.(2006)Joly, Samuel, Langenberg, Blanchong, Batha, Rolley,
+  Keane, and Ribic}]{joly2006}
+Joly, D.~O., M.~D. Samuel, J.~A. Langenberg, J.~A. Blanchong, C.~A. Batha,
+  R.~E. Rolley, D.~P. Keane, and C.~A. Ribic.
+\newblock 2006.
+\newblock Spatial Epidemiology of Chronic Wasting Disease in Wisconsin
+  White-Tailed Deer.
+\newblock Journal of Wildlife Diseases {\bf 42}:578--588.
+
+\bibitem[{Miller et~al.(2006)Miller, Hobbs, and Tavener}]{miller2006}
+Miller, M.~W., N.~T. Hobbs, and S.~J. Tavener.
+\newblock 2006.
+\newblock Dynamics of Prion Disease Transmission in Mule Deer.
+\newblock Ecological Applications {\bf 16}:2208--2214.
+
+\bibitem[{Miller et~al.(2008)Miller, Swanson, Wolfe, Quartarone, Huwer,
+  Southwick, and Lukacs}]{miller2008}
+Miller, M.~W., H.~M. Swanson, L.~L. Wolfe, F.~G. Quartarone, S.~L. Huwer, C.~H.
+  Southwick, and P.~M. Lukacs.
+\newblock 2008.
+\newblock Lions and Prions and Deer Demise.
+\newblock PLOS ONE {\bf 3}:e4019.
+
+\bibitem[{Noon and Sauer(1992)}]{noon1992}
+Noon, B.~R., and J.~R. Sauer, 1992.
+\newblock Population Models for Passerine Birds: Structure, Parameterization,
+  and Analysis.
+\newblock Pages 441--464 {\em in\/} Wildlife 2001: {{Populations}}. {Springer},
+  Netherlands.
+
+\bibitem[{Oraby et~al.(2014)Oraby, Vasilyeva, Krewski, and
+  Lutscher}]{oraby2014}
+Oraby, T., O.~Vasilyeva, D.~Krewski, and F.~Lutscher.
+\newblock 2014.
+\newblock Modeling Seasonal Behavior Changes and Disease Transmission with
+  Application to Chronic Wasting Disease.
+\newblock Journal of Theoretical Biology {\bf 340}:50--59.
+
+\bibitem[{Osnas et~al.(2009)Osnas, Heisey, Rolley, and Samuel}]{osnas2009}
+Osnas, E.~E., D.~M. Heisey, R.~E. Rolley, and M.~D. Samuel.
+\newblock 2009.
+\newblock Spatial and {{Temporal Patterns}} of {{Chronic Wasting Disease}}:
+  {{Fine}}-{{Scale Mapping}} of a {{Wildlife Epidemic}} in {{Wisconsin}}.
+\newblock Ecological Applications {\bf 19}:1311--1322.
+
+\bibitem[{Potapov et~al.(2012)Potapov, Merrill, and Lewis}]{potapov2012}
+Potapov, A., E.~Merrill, and M.~A. Lewis.
+\newblock 2012.
+\newblock Wildlife Disease Elimination and Density Dependence.
+\newblock Proceedings: Biological Sciences {\bf 279}:3139--3145.
+
+\bibitem[{Ruiz et~al.(2013)Ruiz, Kelly, Brown, Novakofski, and
+  {Mateus-Pinilla}}]{ruiz2013}
+Ruiz, M.~O., A.~C. Kelly, W.~M. Brown, J.~E. Novakofski, and N.~E.
+  {Mateus-Pinilla}.
+\newblock 2013.
+\newblock Influence of Landscape Factors and Management Decisions on Spatial
+  and Temporal Patterns of the Transmission of Chronic Wasting Disease in
+  White-Tailed Deer.
+\newblock Geospatial Health {\bf 8}:215--227.
+
+\bibitem[{Samuel and Storm(2016)}]{samuel2016}
+Samuel, M.~D., and D.~J. Storm.
+\newblock 2016.
+\newblock Chronic Wasting Disease in White-Tailed Deer: {{Infection}},
+  Mortality, and Implications for Heterogeneous Transmission.
+\newblock Ecology {\bf 97}:3195--3205.
+
+\end{thebibliography}
